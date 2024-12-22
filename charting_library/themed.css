@@ -1,0 +1,40 @@
+.theme-dark:root {
+  --tv-color-platform-background: #0f1a1f;
+  --tv-color-pane-background: #0f1a1f;
+  --tv-color-pane-background-secondary: #0f1a1f;
+  --tv-color-toolbar-button-text-active: #50d2c1;
+  --tv-color-toolbar-button-text-active-hover: #97fce4;
+  --ui-lib-button-default-color-content: #50d2c1;
+}
+
+html .item-jFqVJoPk,
+html .menuWrap-Kq3ruQo8,
+html .dialog-aRAWUDhF {
+  background-color: #0f1a1e !important;
+}
+
+html .item-jFqVJoPk.isActive-jFqVJoPk,
+html .item-jFqVJoPk.isActive-jFqVJoPk:active {
+  background-color: #50d2c1 !important;
+  color: black !important;
+}
+
+.paneSeparator-uqBaC1Ki {
+  background: rgb(46, 49, 60) !important;
+}
+
+.screen-otjoFNF2 {
+  background: rgb(46, 49, 60) !important;
+}
+
+.screen-otjoFNF2.fade-otjoFNF2 {
+  display: none;
+}
+
+.container-kfvcmk8t {
+  right: 40px !important;
+}
+
+.titlesWrapper-l31H9iuA {
+  font-size: 14px !important;
+}
